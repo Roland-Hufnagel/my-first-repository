@@ -32,3 +32,8 @@ But let's throw in a <b>tag</b>.
 some more content
 
 add some more content
+
+## My hobbies:
+- music
+- baseball
+- rock'n'roll
