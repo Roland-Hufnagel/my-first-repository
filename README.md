@@ -35,5 +35,4 @@ add some more content
 
 ## My hobbies:
 - music
-- baseball
 - rock'n'roll
