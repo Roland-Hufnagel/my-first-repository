@@ -7,4 +7,4 @@ Week1:
 - Tuesday
 - Wednesday
 
-[Google](www.google.com)
+[Google](https://www.google.com)
